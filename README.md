@@ -1,7 +1,6 @@
 # Netflix
 # Netflix Homepage Replication
 
-
 This project is a simple recreation of the Netflix homepage using HTML and CSS. It was completed as part of my Bharat Internship program, showcasing my web development skills.
 
 ## Project Highlights
@@ -23,5 +22,7 @@ You can clone this repository to explore the code and make further improvements 
 ```bash
 git clone https://github.com/yourusername/Netflix-Homepage-main.git
 
-Connect with Me
-If you have any questions or would like to connect, you can reach me on LinkedIn https://www.linkedin.com/in/mohammad-imran-sadhiq-b20148239
+## Connect with Me
+If you have any questions or would like to connect, you can reach me on LinkedIn here.
+
+Thank you for checking out my project!
