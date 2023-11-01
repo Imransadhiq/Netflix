@@ -22,7 +22,4 @@ You can clone this repository to explore the code and make further improvements 
 ```bash
 git clone https://github.com/yourusername/Netflix-Homepage-main.git
 
-## Connect with Me
-If you have any questions or would like to connect, you can reach me on LinkedIn here.
 
-Thank you for checking out my project!
